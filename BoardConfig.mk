@@ -188,7 +188,7 @@ ENABLE_SCHEDBOOST := true
 #personal preference flags
 
 # Custom TWRP Version
-TW_DEVICE_VERSION :=17-Mi9SE by redispade
+TW_DEVICE_VERSION :=18-Mi9SE by redispade
 
 # supress error messages while building
 ALLOW_MISSING_DEPENDENCIES := true
@@ -203,7 +203,7 @@ TW_OVERRIDE_SYSTEM_PROPS := "ro.build.product;ro.build.fingerprint=ro.system.bui
 SHRP_PATH := device/xiaomi/grus
 
 # Maintainer name
-SHRP_MAINTAINER := redispade
+SHRP_MAINTAINER := iamphoenix01
 # Device codename
 SHRP_DEVICE_CODE := grus
 
